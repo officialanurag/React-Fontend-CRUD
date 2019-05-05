@@ -1,0 +1,138 @@
+.add-emp-wrapper {  
+    border: 1px solid #ced4da99;
+    box-shadow: 3px 3px 5px #cfcfcf80;  
+}
+
+.add-emp-list-wrapper {  
+  border: 1px solid #ced4da99;
+  box-shadow: 3px 3px 5px #cfcfcf80;
+  margin-left: 5px;
+}
+
+.emp-form-container{
+  margin-top: 2%;
+}
+
+.emp-heading-cont {  
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 2px;
+  background: #fff;
+  color: #0e0e0e;
+  padding-top: 10px;
+  border-radius: 0px 0px 2px 2px;
+  border-bottom: 1px solid #ced4da99;  
+}
+
+.emp-heading-cont p {
+    font-size: 14px;
+    color: #606060;  
+    padding-bottom: 0px;    
+    margin-top: -3px;
+    letter-spacing: 1px;
+}
+
+.add-emp-form label{
+  font-size: 14px;
+  margin-bottom: 2px;
+}
+
+.add-emp-form input{
+  border-radius: 1px;
+}
+
+.add-emp-wrapper h3 {
+  margin-top: 15px;
+  margin-bottom: -10px;
+  font-size: 20px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-left: 15px;
+}
+
+.form.add-emp-form {
+  margin: 15px;
+}
+
+.emp-list-table{
+  font-size: 14px;
+  text-align: center;
+  width: 96% !important;
+  margin: 2%;
+}
+
+.err{
+  font-size: 11px;
+  margin-top: 0px;
+  color: red;  
+  margin-left: 0px;
+}
+
+.red{
+  color: red;
+}
+
+.green{
+  color: green;
+}
+
+.cancelBtn{
+  font-size: 10px;  
+  margin-top: 27px;  
+  margin-bottom: -15px;  
+  letter-spacing: 1px;  
+  text-decoration: underline;  
+  cursor: pointer;
+}
+
+.no-emp {
+  text-align: center;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #636161;
+  background: #e6e6e6;
+  margin-left: 14px;
+  margin-right: 14px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.notif-body-pink{
+  border: 1px solid #f2cdd4;
+  background: #f9dadf;
+  color: #ec6370;
+}
+
+.notif-body-green{
+  border: 1px solid #a1d47a;
+  background: #e9f9d8;
+  color: #05b726;
+}
+
+.notification {    
+    text-align: center;    
+    margin-top: 15px;
+    margin-bottom: -15px;
+    font-size: 13px;
+    letter-spacing: 1px;    
+    border-radius: 1px;
+    font-weight: bold;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.notif-close {
+  font-size: 9px;
+  text-transform: capitalize;
+  margin-top: 2px;
+  float: right;
+  margin-right: 5px;
+  cursor: pointer;
+  padding: 2px;
+  border: 1px solid #a1d47a;
+  border-radius: 9px;
+  background: #a1d47a;
+  color: #e9f9d8;
+  padding: 0px 3px 1px 4px;
+}
